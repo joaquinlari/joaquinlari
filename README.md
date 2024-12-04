@@ -4,12 +4,12 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaquinlari&theme=gotham&show_icons=true" alt="joaquinlari"/>
 
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&show_icons=true&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=joaquinlari&show_icons=true&theme=gotham"/>
 </p>
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=shamimsikder&theme=gotham"/>
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=joaquinlari&theme=gotham"/>
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
