@@ -7,6 +7,7 @@
 - :school: I am a `Junior` at `Systems engineering` in [Universidad Tecnológica Nacional](https://utn.edu.ar/es/)
 - :trophy: `2023` Finish `Technician in Programming`
 - :technologist: **Currently working on** `Frontend Development` **&** `Backend Development`
+- 📫 How to reach me: **larijoaquin@gmail.com**
 
 <br>
 
@@ -34,3 +35,14 @@
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
+
+<h3 align="center">📩Connect with me:📩</h3>
+<hr/>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-lari-8220b0289/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lari.joaquin/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JoaquinLari)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larijoaquin@gmail.com)
+  
+</div>
