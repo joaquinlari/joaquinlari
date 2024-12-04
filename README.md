@@ -18,8 +18,6 @@
   <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
 </div>
 
-<hr/>
-
 <div align="center">
   
  ## :chart_with_upwards_trend: Current Stats
@@ -36,8 +34,7 @@
 
 </p>
 
-<h3 align="center">📩Connect with me:📩</h3>
-<hr/>
+## <h3 align="center">📩Connect with me:📩</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-lari-8220b0289/)
