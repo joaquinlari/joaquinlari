@@ -19,8 +19,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,py,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,vite,spring,sass" />
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,spring,sass,postman,htmx,docker" />
+  <img src="https://skillicons.dev/icons?i=npm,vite,vscode,figma,git,github" />
 </div>
 
 <div align="center">
